@@ -27,7 +27,7 @@
 - [Gamification](#gamification)
 - [Health](#health)
 - [Mindfulness](#mindfulness)
-- [Inclusiveness](#inclusiveness)
+- [Inclusion](#inclusion)
 - [Awareness](#awareness)
 - [Censorship](#censorship)
 - [Unmaintained](#unmaintained)
@@ -51,7 +51,7 @@ If your project is on this list then you are entitled to proudly wear our humane
 
 [![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
-Our mision is: [**To Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) 
+Our mission is: [**To Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) 
 
 We gladly invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about interesting Humane Technology subjects, participate in our discussions, and become a true :heart:  _Humane Tech Activist!_
 
@@ -62,6 +62,7 @@ You can also follow us on the fediverse at [@humanetech@mastodon.social](https:/
 Humane design is a subset of humane technology and an upcoming field in information technology. Resources in this space are tracked separately in a curated list that is part of the [delightful project](https://codeberg.org/teaserbot-labs/delightful) on Codeberg.
 
 - [delightful-humane-design](https://codeberg.org/teaserbot-labs/delightful-humane-design) - A curated list of humane design resources for UX designers and developers.
+- [delightful-small-ai](https://codeberg.org/teaserbot-labs/delightful-small-ai) - A curated list of open humane artificial intelligence resources.
 
 ## Ethics
 
@@ -81,6 +82,7 @@ Humane design is a subset of humane technology and an upcoming field in informat
 - [Ethical Web Dev](https://edri.org/ethical-web-dev/) - A guide for ethical website development and maintenance.
 - [Declaration of Digital Autonomy](https://techautonomy.org/) - Our technology must respect the rights and freedoms of people who use it.
 - [A New Digital Manifesto](https://anewdigitalmanifesto.com) - Our inalienable rights within the digital age.
+- [Society Centered Design](https://societycentered.design/) - Move beyond human-centered design. We must design for the collective, for society.
 
 ## Security
 
@@ -127,7 +129,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker add-on for various browsers. Fast, potent, and lean.
 - [Exodus Privacy](https://exodus-privacy.eu.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/exodus-privacy/exodus) - Analyzes privacy concerns in Android applications.
 - [Exodus Android App](https://github.com/Exodus-Privacy/exodus-android-app) - App for Exodus Privacy that lets you know what trackers are embedded in apps.
-- [Exodify](https://exodify.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/FacettsOpen/exodify) - Wondering if an app is tracking you? Now you can see it directly in the Play store.
+- [Exodify](https://github.com/FacettsOpen/exodify) - Wondering if an app is tracking you? Now you can see it directly in the Play store.
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/multi-account-containers) - Keep your online life separated into color-coded tabs that preserve privacy.
 - [Mozilla Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/contain-facebook) - Isolates Facebook activity from the rest of your web activity, to prevent tracking.
 - [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/containers-everywhere/contain-google) - Isolates your Google activity from the rest of your web activity, to prevent tracking.
@@ -139,7 +141,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [Searx](https://asciimoo.github.io/searx/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/asciimoo/searx) - A trackerless, privacy-respecting metasearch engine that can be self-hosted.
 - [DNS66](https://jak-linux.org/projects/dns66/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/julian-klode/dns66) - A DNS-based Host Blocker (and lightweight ad blocker) for Android.
 - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Browser extension that deletes cookies as soon as the tab closes, unless site is allowListed.
-- [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/KevinRoebert/ClearUrls/blob/main/README.md) - Addon that removes tracking elements form address bar URLs using 130 rules.
+- [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/KevinRoebert/ClearUrls/blob/master/README.md) - Addon that removes tracking elements form address bar URLs using 130 rules.
 - [Pi-hole](https://pi-hole.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/pi-hole/pi-hole) - A DNS sinkhole to block ads or trackers on a local network without installing any client-side software.
 - [Shariff](https://heiseonline.github.io/shariff/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/heiseonline/shariff) - Enables website users to share their favorite content without compromising their privacy.
 - [Social Share Privacy](https://panzi.github.io/SocialSharePrivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/panzi/SocialSharePrivacy) - jQuery plugin for adding social share buttons that don't allow social sites to track users.
@@ -158,14 +160,13 @@ Security is an important aspect of humane technology. It is also a vast field we
 ## Analytics
 
 - [Matomo](https://matomo.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/matomo-org/matomo) - The leading open alternative to Google Analytics that gives you full control over your data.
-- [Fathom](https://usefathom.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/usefathom/fathom) - A simpler and more privacy-focused alternative to Google Analytics.
 - [Fair Analytics](https://github.com/vesparny/fair-analytics) - A Google Analytics-alike server that doesn't undermine user's privacy.
 - [GoAccess](https://goaccess.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/allinurl/goaccess) - A real-time web log analyzer and interactive viewer that runs in a terminal or in a browser.
 - [Countly](https://count.ly/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Countly/countly-server) - A real-time, mobile & web analytics, rich push notifications and crash reporting platform.
 - [Ackee](https://ackee.electerious.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/electerious/Ackee) - Self-hosted Node.js based analytics tool for those who care about privacy.
 - [Koko Analytics](https://www.kokoanalytics.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ibericode/koko-analytics) - Plugin for WordPress that doesn't use external services and respects your visitors’ privacy.
 - [freshlytics](https://freshlytics.gitbook.io/docs/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/sheshbabu/freshlytics) - A self-hosted privacy-friendly, reliable and easy-to-deploy analytics service.
-- [Plausible Insights](https://plausible.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/plausible-insights/plausible) - Simple, lightweight analytics service that respects your visitors' privacy.
+- [Plausible Analytics](https://plausible.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/plausible/analytics) - Simple, lightweight (< 1 KB) and privacy-friendly web analytics. Hosted in the EU.
 - [Goatcounter](https://www.goatcounter.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/zgoat/goatcounter) - Simple web statistics. No tracking of personal data.
 - [Open Web Analytics](http://www.openwebanalytics.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/padams/Open-Web-Analytics) - Stay in control of how you instrument and analyze the use of websites and application.
 - [Shynet](https://github.com/milesmcc/shynet) - Privacy-friendly and detailed web analytics that works without cookies or JS.
@@ -173,6 +174,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [umami](https://umami.is/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mikecao/umami) - A simple, fast, website analytics alternative to Google Analytics.
 - [AWStats](https://www.awstats.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/eldy/awstats) - Free real-time logfile analyzer to get advanced statistics.
 - [Offen](https://www.offen.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/offen/offen) - Fair web analytics. Gain insights while your users have full control over their data.
+- [Kindmetrics](https://kindmetrics.io)  [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/kindmetrics/kindmetrics) - Privacy focused website analytics made in Crystal - Hosted in the EU.
 
 
 ## Blocklists
@@ -207,7 +209,6 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Humnub](https://www.humhub.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/humhub/humhub) - A feature rich and highly flexible open-source Social Network Kit written in PHP.
 - [Patchwork](https://www.scuttlebutt.nz/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
 - [Pump.io](http://pump.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/pump-io/pump.io) - A stream server that does most of what people really want from a social network.
-- [Voten](https://voten.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/voten-co/voten) - An open-source, beautiful, highly customizable yet deadly simple, and warm community.
 - [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/bengrosser/facebook-demetricator) - A web browser extension that removes all the metrics from the Facebook interface.
 - [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/bengrosser/twitter-demetricator) - A web browser extension that removes all the metrics on Twitter.
 - [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator) - A browser extension that replaces your Facebook news feed with a nice quote.
@@ -236,7 +237,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [GlobaLeaks](https://www.globaleaks.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/globaleaks/GlobaLeaks) - Software intended to enable Secure and Anonymous Whistleblowing initiatives.
 - [SecureDrop](https://securedrop.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/freedomofpress/securedrop) - Whistleblower submission system to securily interact with anonymous sources.
 - [EdgeDeflector](https://www.ctrl.blog/entry/edgedeflector-default-browser) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/da2x/EdgeDeflector) - Force Windows 10 to use your preferred web browser instead of Microsoft Edge.
-- [Wayback Everywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox/blob/main/README.md) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox/blob/main/README.md)- Redirect all pages to snapshots in Wayback Machine and auto-save pages.
+- [Wayback Everywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox/blob/master/README.md) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)- Redirect all pages to snapshots in Wayback Machine and auto-save pages.
 - [996.ICU](https://github.com/996icu/996.ICU) - Collection of resources advocating against 996 work schedule (9am – 9pm, 6 days per week).
 - [DeGoogle-FOSS](https://codeberg.org/ReverseEagle/DeGoogle-FOSS) - A list of free and open source software containing proprietary Google binaries.
 
@@ -247,11 +248,14 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Mozilla Ichnaea](https://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/ichnaea) - API to get geolocation coordinates from other sources (Bluetooth, cell or WiFi, GeoIP, etc).
 - [Mozilla Stumbler](https://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/MozStumbler) - A scanner that collects GPS and wireless network data for our crowd-sourced location db.
 - [Qwant Maps](https://www.qwant.com/maps/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/QwantResearch/qwantmaps/) - A map application, based on OpenStreetMap, that respects your privacy.
+- [Owntracks](https://owntracks.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/owntracks/android) - A privacy-respecting mobile app that allows you to keep track of your own location.
+- [Hauk](https://github.com/bilde2910/Hauk) - A fully open source, self-hosted location sharing service.
 
 ## Voice Assistants
 
 - [Almond](https://almond.stanford.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/stanford-oval/almond-cloud) - The Stanford open, privacy-preserving virtual assistent.
 - [Rhasspy](https://rhasspy.readthedocs.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/synesthesiam/rhasspy) - A fully offline voice assistant toolkit for many languages.
+- [Mycroft AI](https://mycroft.ai/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/MycroftAI) - The open and private voice assistant.
 
 ## Internet of Things
 
@@ -302,12 +306,12 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 
 - [Happy DB](https://rit-public.github.io/HappyDB/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/rit-public/HappyDB) - HappyDB is a corpus of 100,000+ crowd-sourced happy moments.
 
-## Inclusiveness
+## Inclusion
 
-- [Post-Meritocracy Manifesto](https://postmeritocracy.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/CoralineAda/postmeritocracy) - Values and principals of software developers in the post-meritocracy world.
 - [AlexJS](https://alexjs.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [Buster](https://github.com/dessant/buster) - Browser extension and Captcha Solver for Humans.
 - [The A11Y Project](https://a11yproject.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/a11yproject/a11yproject.com) - A community-driven effort to make web accessibility easier.
+- [IETF Inclusive Language](https://tools.ietf.org/html/draft-knodel-terminology-04) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ietf/terminology) - Terminology for inclusive language conventions (latest version on github).
 
 Deaf and Hard of Hearing accessibility resources:
 
@@ -317,7 +321,7 @@ Deaf and Hard of Hearing accessibility resources:
 ## Awareness
 
 - [Hack the Media](https://github.com/nemild/hack-the-media) - Media literacy guide highlighting how our media sources can give a flawed worldview.
-- [Hack an Engineer](https://www.nemil.com/musings/hack-an-engineer.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/nemild/hack-the-media/blob/main/software-engineers-media-guide.md) - A media literacy guide for software engineers.
+- [Hack an Engineer](https://www.nemil.com/musings/hack-an-engineer.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/nemild/hack-the-media/blob/master/software-engineers-media-guide.md) - A media literacy guide for software engineers.
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze the Facebook copy of your own data.
 - [HTTP Leaks](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests.
 - [Who Tracks Me](https://whotracks.me/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/cliqz-oss/whotracks.me) - Bringing Transparency to online tracking - built by Cliqz and Ghostery.
@@ -331,6 +335,8 @@ Deaf and Hard of Hearing accessibility resources:
 - [Where are the Eyes?](https://eyes.daylightingsociety.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/DaylightingSociety/WhereAreTheEyes) - A program for detecting and mapping surveillance cameras.
 - [IMSI-Catcher Detector](https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - An Android app to detect IMSI-Catchers aka Stingrays (project in Alpha).
 - [Dogsheep](https://dogsheep.github.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/dogsheep) - Export data from big companies (e.g. Google, Twitter) into Sqlite for personal analytics.
+- [Tracking Exposed](https://tracking.exposed/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/tracking-exposed) - Research, browser addons on tracking, profiling, and influence of algorithms.
+- [Social Media Awareness Toolkit](https://foundation.mozilla.org/en/blog/new-open-source-tool-tracking-disinformation/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/smat-project) - An open and intuitive way to scrutinize what’s trending on internet platforms.
 
 ## Censorship
 
@@ -362,6 +368,7 @@ Also check out these sites for great alternatives to the monopolistic, privacy-i
 - [degoogle](https://degoogle.jmoore.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [switching.software](https://switching.software/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitea.svg?sanitize=true" width="16"/>](https://codeberg.org/swiso-en/website?lang=en-US) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software.
 - [ReverseEagle-Developers](https://developers.reverseeagle.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://forge.tedomum.net/ReverseEagle/developers) - Privacy-conscious, ethical and safer alternatives to software for developers.
+- [ethical.net](https://ethical.net/resources/) - Ethical alternatives & resources.
 - [delightful project](https://codeberg.org/teaserbot-labs/delightful) - Similar to awesome project, but only for FOSS, Open Data and Open Science.
 
 ## Contributing
